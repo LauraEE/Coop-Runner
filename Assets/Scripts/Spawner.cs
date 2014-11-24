@@ -4,21 +4,28 @@ using System.Collections.Generic;
 
 public class Spawner : MonoBehaviour {
 	List<GameObject> segmentPool;
-	// Use this for initialization
 	void Start () {
 		segmentPool = new List<GameObject>();
-		GameObject segment1 = (GameObject)Resources.Load ("Prefabs/Tunnel_01");
+		// Array of map segments
+		GameObject[] segmentArray = new GameObject[] {
+			(GameObject)Resources.Load ("Prefabs/Segment_Blank"),
+			(GameObject)Resources.Load ("Prefabs/Segment_Wall_Up"),
+			(GameObject)Resources.Load ("Prefabs/Segment_Wall_Down")
+		};
 		GameObject segment;
-		for (int i = 0; i < 10; i++) {
-			segment = (GameObject)Instantiate (segment1);
-			segment.SetActive (false);
-			segmentPool.Add (segment);
+		// for each segment type
+		for (int i = 0; i < segmentArray.Length; i++) {
+			// instantiate x number of segments
+			for (int j = 0; j < 5; j++) {
+				segment = (GameObject)Instantiate (segmentArray[i]);
+				segment.SetActive (false);
+				segmentPool.Add (segment);
+			}
 		}
-		
 	}
 	
 	void OnTriggerExit (Collider other) {
-		if (other.gameObject.tag == "Tunnel" || other.gameObject.tag == "StartTunnel") {
+		if (other.gameObject.tag == "Segment" || other.gameObject.tag == "SegmentStart") {
 			foreach (GameObject s in segmentPool) {
 				int nextSegment = Random.Range(0, segmentPool.Count);
 				if (!segmentPool[nextSegment].activeInHierarchy) {
