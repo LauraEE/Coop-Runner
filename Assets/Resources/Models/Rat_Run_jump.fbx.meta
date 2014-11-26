@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: a07b5c14343a7b4498ad29b3ef080265
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Rat
+    100002: //RootNode
+    100004: Rat_Skele
+    100006: Rat_Skele|Back
+    100008: Rat_Skele|Butt
+    100010: Rat_Skele|Foot_Back_Lower.L
+    100012: Rat_Skele|Foot_Back_Lower.R
+    100014: Rat_Skele|Foot_Back_Upper.L
+    100016: Rat_Skele|Foot_Back_Upper.R
+    100018: Rat_Skele|Foot_Front.L
+    100020: Rat_Skele|Foot_Front.R
+    100022: Rat_Skele|Head
+    100024: Rat_Skele|Hips
+    100026: Rat_Skele|IK_Butt
+    100028: Rat_Skele|IK_Foot_Back_Lower.L
+    100030: Rat_Skele|IK_Foot_Back_Lower.R
+    100032: Rat_Skele|IK_Foot_Front.L
+    100034: Rat_Skele|IK_Foot_Front.R
+    100036: Rat_Skele|IK_Pole_Foot_Front.L
+    100038: Rat_Skele|IK_Pole_Foot_Front.R
+    100040: Rat_Skele|IK_Tail
+    100042: Rat_Skele|IKmain_Foot_Back.L
+    100044: Rat_Skele|IKmain_Foot_Back.R
+    100046: Rat_Skele|IKmain_Foot_Front.L
+    100048: Rat_Skele|IKmain_Foot_Front.R
+    100050: Rat_Skele|Leg_Back_Lower.L
+    100052: Rat_Skele|Leg_Back_Lower.R
+    100054: Rat_Skele|Leg_Back_Upper.L
+    100056: Rat_Skele|Leg_Back_Upper.R
+    100058: Rat_Skele|Leg_Front_Lower.L
+    100060: Rat_Skele|Leg_Front_Lower.R
+    100062: Rat_Skele|Leg_Front_Upper.L
+    100064: Rat_Skele|Leg_Front_Upper.R
+    100066: Rat_Skele|Neck
+    100068: Rat_Skele|Ribs_Back
+    100070: Rat_Skele|Ribs_Front
+    100072: Rat_Skele|Shoulder_Back.L
+    100074: Rat_Skele|Shoulder_Back.R
+    100076: Rat_Skele|Shoulder_Front.L
+    100078: Rat_Skele|Shoulder_Front.R
+    100080: Rat_Skele|t1
+    100082: Rat_Skele|t2
+    100084: Rat_Skele|t3
+    100086: Rat_Skele|t4
+    100088: Rat_Skele|t5
+    100090: Rat_Skele|t6
+    100092: Rat_Skele|Tail_Base
+    100094: Rat_Skele|Toes_Back.L
+    100096: Rat_Skele|Toes_Back.R
+    100098: Rat_Skele|Toes_Front.L
+    100100: Rat_Skele|Toes_Front.R
+    400000: Rat
+    400002: //RootNode
+    400004: Rat_Skele
+    400006: Rat_Skele|Back
+    400008: Rat_Skele|Butt
+    400010: Rat_Skele|Foot_Back_Lower.L
+    400012: Rat_Skele|Foot_Back_Lower.R
+    400014: Rat_Skele|Foot_Back_Upper.L
+    400016: Rat_Skele|Foot_Back_Upper.R
+    400018: Rat_Skele|Foot_Front.L
+    400020: Rat_Skele|Foot_Front.R
+    400022: Rat_Skele|Head
+    400024: Rat_Skele|Hips
+    400026: Rat_Skele|IK_Butt
+    400028: Rat_Skele|IK_Foot_Back_Lower.L
+    400030: Rat_Skele|IK_Foot_Back_Lower.R
+    400032: Rat_Skele|IK_Foot_Front.L
+    400034: Rat_Skele|IK_Foot_Front.R
+    400036: Rat_Skele|IK_Pole_Foot_Front.L
+    400038: Rat_Skele|IK_Pole_Foot_Front.R
+    400040: Rat_Skele|IK_Tail
+    400042: Rat_Skele|IKmain_Foot_Back.L
+    400044: Rat_Skele|IKmain_Foot_Back.R
+    400046: Rat_Skele|IKmain_Foot_Front.L
+    400048: Rat_Skele|IKmain_Foot_Front.R
+    400050: Rat_Skele|Leg_Back_Lower.L
+    400052: Rat_Skele|Leg_Back_Lower.R
+    400054: Rat_Skele|Leg_Back_Upper.L
+    400056: Rat_Skele|Leg_Back_Upper.R
+    400058: Rat_Skele|Leg_Front_Lower.L
+    400060: Rat_Skele|Leg_Front_Lower.R
+    400062: Rat_Skele|Leg_Front_Upper.L
+    400064: Rat_Skele|Leg_Front_Upper.R
+    400066: Rat_Skele|Neck
+    400068: Rat_Skele|Ribs_Back
+    400070: Rat_Skele|Ribs_Front
+    400072: Rat_Skele|Shoulder_Back.L
+    400074: Rat_Skele|Shoulder_Back.R
+    400076: Rat_Skele|Shoulder_Front.L
+    400078: Rat_Skele|Shoulder_Front.R
+    400080: Rat_Skele|t1
+    400082: Rat_Skele|t2
+    400084: Rat_Skele|t3
+    400086: Rat_Skele|t4
+    400088: Rat_Skele|t5
+    400090: Rat_Skele|t6
+    400092: Rat_Skele|Tail_Base
+    400094: Rat_Skele|Toes_Back.L
+    400096: Rat_Skele|Toes_Back.R
+    400098: Rat_Skele|Toes_Front.L
+    400100: Rat_Skele|Toes_Front.R
+    4300000: Rat
+    7400000: Rat_Run
+    7400002: Rat_Jump
+    9500000: //RootNode
+    13700000: Rat
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Rat_Run
+      takeName: Rat_Skele|Rat_SkeleAction
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rat
+        weight: 1
+      - path: Rat_Skele
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IK_Butt
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IK_Pole_Foot_Front.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IK_Pole_Foot_Front.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IK_Tail
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IKmain_Foot_Back.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IKmain_Foot_Back.L/Rat_Skele|IK_Foot_Back_Lower.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IKmain_Foot_Back.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IKmain_Foot_Back.R/Rat_Skele|IK_Foot_Back_Lower.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IKmain_Foot_Front.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IKmain_Foot_Front.L/Rat_Skele|IK_Foot_Front.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IKmain_Foot_Front.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IKmain_Foot_Front.R/Rat_Skele|IK_Foot_Front.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Neck
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Neck/Rat_Skele|Head
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Butt
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Butt/Rat_Skele|Tail_Base
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Butt/Rat_Skele|Tail_Base/Rat_Skele|t1
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Butt/Rat_Skele|Tail_Base/Rat_Skele|t1/Rat_Skele|t2
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Butt/Rat_Skele|Tail_Base/Rat_Skele|t1/Rat_Skele|t2/Rat_Skele|t3
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Butt/Rat_Skele|Tail_Base/Rat_Skele|t1/Rat_Skele|t2/Rat_Skele|t3/Rat_Skele|t4
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Butt/Rat_Skele|Tail_Base/Rat_Skele|t1/Rat_Skele|t2/Rat_Skele|t3/Rat_Skele|t4/Rat_Skele|t5
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Butt/Rat_Skele|Tail_Base/Rat_Skele|t1/Rat_Skele|t2/Rat_Skele|t3/Rat_Skele|t4/Rat_Skele|t5/Rat_Skele|t6
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.L/Rat_Skele|Leg_Back_Upper.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.L/Rat_Skele|Leg_Back_Upper.L/Rat_Skele|Leg_Back_Lower.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.L/Rat_Skele|Leg_Back_Upper.L/Rat_Skele|Leg_Back_Lower.L/Rat_Skele|Foot_Back_Upper.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.L/Rat_Skele|Leg_Back_Upper.L/Rat_Skele|Leg_Back_Lower.L/Rat_Skele|Foot_Back_Upper.L/Rat_Skele|Foot_Back_Lower.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.L/Rat_Skele|Leg_Back_Upper.L/Rat_Skele|Leg_Back_Lower.L/Rat_Skele|Foot_Back_Upper.L/Rat_Skele|Foot_Back_Lower.L/Rat_Skele|Toes_Back.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.R/Rat_Skele|Leg_Back_Upper.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.R/Rat_Skele|Leg_Back_Upper.R/Rat_Skele|Leg_Back_Lower.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.R/Rat_Skele|Leg_Back_Upper.R/Rat_Skele|Leg_Back_Lower.R/Rat_Skele|Foot_Back_Upper.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.R/Rat_Skele|Leg_Back_Upper.R/Rat_Skele|Leg_Back_Lower.R/Rat_Skele|Foot_Back_Upper.R/Rat_Skele|Foot_Back_Lower.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.R/Rat_Skele|Leg_Back_Upper.R/Rat_Skele|Leg_Back_Lower.R/Rat_Skele|Foot_Back_Upper.R/Rat_Skele|Foot_Back_Lower.R/Rat_Skele|Toes_Back.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Shoulder_Front.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Shoulder_Front.L/Rat_Skele|Leg_Front_Upper.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Shoulder_Front.L/Rat_Skele|Leg_Front_Upper.L/Rat_Skele|Leg_Front_Lower.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Shoulder_Front.L/Rat_Skele|Leg_Front_Upper.L/Rat_Skele|Leg_Front_Lower.L/Rat_Skele|Foot_Front.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Shoulder_Front.L/Rat_Skele|Leg_Front_Upper.L/Rat_Skele|Leg_Front_Lower.L/Rat_Skele|Foot_Front.L/Rat_Skele|Toes_Front.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Shoulder_Front.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Shoulder_Front.R/Rat_Skele|Leg_Front_Upper.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Shoulder_Front.R/Rat_Skele|Leg_Front_Upper.R/Rat_Skele|Leg_Front_Lower.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Shoulder_Front.R/Rat_Skele|Leg_Front_Upper.R/Rat_Skele|Leg_Front_Lower.R/Rat_Skele|Foot_Front.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Shoulder_Front.R/Rat_Skele|Leg_Front_Upper.R/Rat_Skele|Leg_Front_Lower.R/Rat_Skele|Foot_Front.R/Rat_Skele|Toes_Front.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Rat_Jump
+      takeName: Rat_Skele|Rat_SkeleAction
+      firstFrame: 120
+      lastFrame: 284
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rat
+        weight: 1
+      - path: Rat_Skele
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IK_Butt
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IK_Pole_Foot_Front.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IK_Pole_Foot_Front.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IK_Tail
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IKmain_Foot_Back.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IKmain_Foot_Back.L/Rat_Skele|IK_Foot_Back_Lower.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IKmain_Foot_Back.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IKmain_Foot_Back.R/Rat_Skele|IK_Foot_Back_Lower.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IKmain_Foot_Front.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IKmain_Foot_Front.L/Rat_Skele|IK_Foot_Front.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IKmain_Foot_Front.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|IKmain_Foot_Front.R/Rat_Skele|IK_Foot_Front.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Neck
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Neck/Rat_Skele|Head
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Butt
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Butt/Rat_Skele|Tail_Base
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Butt/Rat_Skele|Tail_Base/Rat_Skele|t1
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Butt/Rat_Skele|Tail_Base/Rat_Skele|t1/Rat_Skele|t2
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Butt/Rat_Skele|Tail_Base/Rat_Skele|t1/Rat_Skele|t2/Rat_Skele|t3
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Butt/Rat_Skele|Tail_Base/Rat_Skele|t1/Rat_Skele|t2/Rat_Skele|t3/Rat_Skele|t4
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Butt/Rat_Skele|Tail_Base/Rat_Skele|t1/Rat_Skele|t2/Rat_Skele|t3/Rat_Skele|t4/Rat_Skele|t5
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Butt/Rat_Skele|Tail_Base/Rat_Skele|t1/Rat_Skele|t2/Rat_Skele|t3/Rat_Skele|t4/Rat_Skele|t5/Rat_Skele|t6
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.L/Rat_Skele|Leg_Back_Upper.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.L/Rat_Skele|Leg_Back_Upper.L/Rat_Skele|Leg_Back_Lower.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.L/Rat_Skele|Leg_Back_Upper.L/Rat_Skele|Leg_Back_Lower.L/Rat_Skele|Foot_Back_Upper.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.L/Rat_Skele|Leg_Back_Upper.L/Rat_Skele|Leg_Back_Lower.L/Rat_Skele|Foot_Back_Upper.L/Rat_Skele|Foot_Back_Lower.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.L/Rat_Skele|Leg_Back_Upper.L/Rat_Skele|Leg_Back_Lower.L/Rat_Skele|Foot_Back_Upper.L/Rat_Skele|Foot_Back_Lower.L/Rat_Skele|Toes_Back.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.R/Rat_Skele|Leg_Back_Upper.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.R/Rat_Skele|Leg_Back_Upper.R/Rat_Skele|Leg_Back_Lower.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.R/Rat_Skele|Leg_Back_Upper.R/Rat_Skele|Leg_Back_Lower.R/Rat_Skele|Foot_Back_Upper.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.R/Rat_Skele|Leg_Back_Upper.R/Rat_Skele|Leg_Back_Lower.R/Rat_Skele|Foot_Back_Upper.R/Rat_Skele|Foot_Back_Lower.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Ribs_Back/Rat_Skele|Back/Rat_Skele|Hips/Rat_Skele|Shoulder_Back.R/Rat_Skele|Leg_Back_Upper.R/Rat_Skele|Leg_Back_Lower.R/Rat_Skele|Foot_Back_Upper.R/Rat_Skele|Foot_Back_Lower.R/Rat_Skele|Toes_Back.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Shoulder_Front.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Shoulder_Front.L/Rat_Skele|Leg_Front_Upper.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Shoulder_Front.L/Rat_Skele|Leg_Front_Upper.L/Rat_Skele|Leg_Front_Lower.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Shoulder_Front.L/Rat_Skele|Leg_Front_Upper.L/Rat_Skele|Leg_Front_Lower.L/Rat_Skele|Foot_Front.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Shoulder_Front.L/Rat_Skele|Leg_Front_Upper.L/Rat_Skele|Leg_Front_Lower.L/Rat_Skele|Foot_Front.L/Rat_Skele|Toes_Front.L
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Shoulder_Front.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Shoulder_Front.R/Rat_Skele|Leg_Front_Upper.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Shoulder_Front.R/Rat_Skele|Leg_Front_Upper.R/Rat_Skele|Leg_Front_Lower.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Shoulder_Front.R/Rat_Skele|Leg_Front_Upper.R/Rat_Skele|Leg_Front_Lower.R/Rat_Skele|Foot_Front.R
+        weight: 1
+      - path: Rat_Skele/Rat_Skele|Ribs_Front/Rat_Skele|Shoulder_Front.R/Rat_Skele|Leg_Front_Upper.R/Rat_Skele|Leg_Front_Lower.R/Rat_Skele|Foot_Front.R/Rat_Skele|Toes_Front.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
